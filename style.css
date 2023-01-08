@@ -1,0 +1,18 @@
+#dot {
+   box-sizing: border-box;
+   top: 47px;
+   left: 38px;
+}
+h1 {
+    text-decoration: underline;
+}
+img{
+    width: 301px;
+    height: 200px;
+    top: 87px;
+    left: 58px;
+    box-sizing: yellow;
+}
+#f {
+    background-origin: #0d4f07;
+}
